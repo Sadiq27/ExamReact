@@ -1,0 +1,17 @@
+export const Colors = {
+    almostBlack: '#3b3b3b',
+    tagGray: '#666666',
+    textBlack: '#3b3b3b',
+    offWhite: '#fafafa',
+    darkGray: '#343434',
+    lightGray: '#D3D3D3',
+    Amber: "#FFBF00",
+    black: 'black',
+    gray: 'gray',
+    primeBlack: '#17181C',
+    grayDark: '#4C4C5B',
+    purple: '#673BB3',
+    blue: '#5581F1',
+    yellow: '#EFA512',
+    white: '#FFFFFF',
+}
